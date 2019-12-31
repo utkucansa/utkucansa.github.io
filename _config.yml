@@ -108,9 +108,9 @@ analytics:
 # Site Author
 author:
   name             : "Utkucan Sahin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aachen, Germany"
-  location         : "Somewhere"
+  avatar           : "/assets/photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data Science Portfolio"
+  location         : "Aachen, Germany"
   email            :
   links:
     - label: "Email"
